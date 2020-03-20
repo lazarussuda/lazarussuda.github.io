@@ -1,0 +1,31 @@
+body{
+ background-color: red
+
+
+}
+
+.sidebutton{
+  background-image: linear-gradient(#46eb34,#2fede1);
+  height: 210px;
+}
+
+img{
+  width:250px;
+  vertical-align: middle;
+
+}
+#autostart{
+
+}
+
+div{font-family: 'Hanalei', cursive;
+font-weight:normal;
+font-size: 25px;
+background-color:
+
+}
+
+.pixel{
+  float:left;
+
+}
